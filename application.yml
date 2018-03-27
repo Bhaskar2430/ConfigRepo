@@ -8,6 +8,8 @@ eureka:
       
 IsSPLEnabled: False
 Segment: Disti
+foo: foo for dev
+bar: bar from dev
 
 ---
 spring:
