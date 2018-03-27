@@ -6,8 +6,8 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-IsSPLEnabled: True
-Segment: Fed
+IsSPLEnabled: False
+Segment: Disti
 foo: foo1 for dev
 bar: bar2 from dev
 
