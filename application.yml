@@ -7,7 +7,7 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
       
 IsSPLEnabled: TRUE
-Segment: DISTI
+Segment: CHANNN
 foo: foo1 for dev
 bar: bar2 from dev
 
