@@ -6,7 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-IsSPLEnabled: TRUE
+IsSPLEnabled: FALSE
 Segment: CHAN
 foo: foo1 for dev
 bar: bar2 from dev
