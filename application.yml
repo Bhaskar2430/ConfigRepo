@@ -6,8 +6,8 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-IsSPLEnabled: TRUE
-Segment: DISTI customers
+IsSPLEnabled: FALSE
+Segment: Channel customers
 foo: foo1 for dev
 bar: bar2 from dev
 
