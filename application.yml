@@ -1,6 +1,6 @@
 info:
-  description: Spring Cloud Samples
-  url: https://git-cd.isus.emc.com/dcs-premierconnect/hackathons/PCFHackathon2018/PCFConfigServer/tree/master/src/ConfigRepo
+  description: welcome to PCF Hackathan Demo
+  url: https://git-cd.isus.emc.com/dcs-premierconnect/hackathons/PCFHackathon2018/PCFConfigRepo
 eureka:
   client:
     serviceUrl:
